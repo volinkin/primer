@@ -1,4 +1,4 @@
-zaprosUD RT_RCDATA ZaprosUD.sql
+zaprosUD RT_RCDATA SQL/ZaprosUD.sql
 zaprosGD RT_RCDATA ZaprosGD.sql
 zaprosGDIsk RT_RCDATA ZaprosGDIsk.sql
 zaprosKAS RT_RCDATA ZaprosKAS.sql
